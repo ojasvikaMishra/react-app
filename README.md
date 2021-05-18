@@ -1,6 +1,6 @@
 ## Login with Github
 
-An app that implements "Login with GitHub" functionality in React.js
+App that implements "Login with GitHub" functionality in React.js
 
 ### Usage and Setup
 - Clone this repo. Go into the root folder and run *yarn* to install the dependencies.
